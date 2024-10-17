@@ -9,7 +9,7 @@ API REST  que abrange o controle de empresas, vagas de emprego e aplicações. O
 - [Spring Boot](https://spring.io/projects/spring-boot)
 - [Spring Security](https://spring.io/projects/spring-security)
 - [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
-- [PostGreSQL](https://www.postgresql.org/)
+- [PostgreSQL](https://www.postgresql.org/)
 - [Swagger](https://swagger.io/tools/swagger-ui/)
 
 ## Práticas adotadas
