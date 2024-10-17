@@ -2,7 +2,7 @@
   Gestão de vagas
 </h1>
 
-Desenvolvimento de uma API REST abrangendo o controle de empresas, vagas de emprego e aplicações. O projeto faz uso dos principais pacotes do Spring Boot para persistência de dados, implementação de segurança e autorização. A aplicação permite a criação, leitura, atualização e exclusão de registros relacionados a empresas, vagas de emprego e candidaturas, proporcionando uma solução completa para o gerenciamento de recursos humanos.
+API REST  que abrange o controle de empresas, vagas de emprego e aplicações. O projeto faz uso dos principais pacotes do Spring Boot para persistência de dados, implementação de segurança e autorização. A aplicação permite a criação, leitura, atualização e exclusão de registros relacionados a empresas, vagas de emprego e candidaturas, proporcionando uma solução completa para o gerenciamento de recursos humanos.
 
 ## Tecnologias
 
